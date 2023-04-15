@@ -1,0 +1,219 @@
+{
+  "stories": [
+    {
+      "id": 1,
+      "name": "Chat",
+      "img" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883355/Ngodingbentar/Music/200x200cc_3_v80fng.jpg",
+      "description": "",
+      "icon": ""
+    },
+    {
+      "id": 2,
+      "name": "Youtube",
+      "img" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883355/Ngodingbentar/Music/200x200cc_2_vwvpll.jpg",
+      "description": "",
+      "icon": ""
+    },
+    {
+      "id": 3,
+      "name": "Management",
+      "img" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883354/Ngodingbentar/Music/200x200cc_1_o0bba8.jpg",
+      "description": "",
+      "icon": ""
+    },
+    {
+      "id": 4,
+      "name": "Management",
+      "img" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883354/Ngodingbentar/Music/200x200cc_4_ek1wir.jpg",
+      "description": "",
+      "icon": ""
+    },
+    {
+      "id": 5,
+      "name": "Management",
+      "img" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625857570/Ngodingbentar/Music/400x400cc_asdlmr.jpg",
+      "description": "",
+      "icon": ""
+    },
+    {
+      "id": 6,
+      "name": "Management",
+      "img" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883353/Ngodingbentar/Music/200x200cc_w4l0t2.jpg",
+      "description": "",
+      "icon": ""
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "name": "Chat",
+      "profileImg" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883355/Ngodingbentar/Music/200x200cc_3_v80fng.jpg",
+      "postImg" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883566/Ngodingbentar/Music/500x500cc_hkhll2.jpg",
+      "likes": 200,
+      "description": "desscription caption",
+      "comments": 129,
+      "created": 3
+    },
+    {
+      "id": 2,
+      "name": "Youtube",
+      "profileImg" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883355/Ngodingbentar/Music/200x200cc_2_vwvpll.jpg",
+      "postImg" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883566/Ngodingbentar/Music/500x500cc_hkhll2.jpg",
+      "likes": 200,
+      "description": "desscription caption",
+      "comments": 129,
+      "created": 3
+    },
+    {
+      "id": 3,
+      "name": "Management",
+      "profileImg" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883354/Ngodingbentar/Music/200x200cc_1_o0bba8.jpg",
+      "postImg" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883566/Ngodingbentar/Music/500x500cc_hkhll2.jpg",
+      "likes": 200,
+      "description": "desscription caption",
+      "comments": 129,
+      "created": 3
+    },
+    {
+      "id": 4,
+      "name": "Management",
+      "profileImg" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883354/Ngodingbentar/Music/200x200cc_4_ek1wir.jpg",
+      "postImg" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883566/Ngodingbentar/Music/500x500cc_hkhll2.jpg",
+      "likes": 200,
+      "description": "desscription caption",
+      "comments": 129,
+      "created": 3
+    },
+    {
+      "id": 5,
+      "name": "Management",
+      "profileImg" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625857570/Ngodingbentar/Music/400x400cc_asdlmr.jpg",
+      "postImg" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883566/Ngodingbentar/Music/500x500cc_hkhll2.jpg",
+      "likes": 200,
+      "description": "desscription caption",
+      "comments": 129,
+      "created": 3
+    },
+    {
+      "id": 6,
+      "name": "Management",
+      "profileImg" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883353/Ngodingbentar/Music/200x200cc_w4l0t2.jpg",
+      "postImg" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883566/Ngodingbentar/Music/500x500cc_hkhll2.jpg",
+      "likes": 200,
+      "description": "desscription caption",
+      "comments": 129,
+      "created": 3
+    }
+  ],
+  "galery": [
+    {
+      "id": 1,
+      "name": "Chat",
+      "profileImg" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883355/Ngodingbentar/Music/200x200cc_3_v80fng.jpg",
+      "postImg" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625921561/Ngodingbentar/ig/Untitled-1_igvzza.png",
+      "likes": 200,
+      "description": "desscription caption",
+      "comments": 129,
+      "created": 3
+    },
+    {
+      "id": 2,
+      "name": "Youtube",
+      "profileImg" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883355/Ngodingbentar/Music/200x200cc_2_vwvpll.jpg",
+      "postImg" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625921727/Ngodingbentar/ig/Untitled-1e_r7x41u.png",
+      "likes": 200,
+      "description": "desscription caption",
+      "comments": 129,
+      "created": 3
+    },
+    {
+      "id": 3,
+      "name": "Management",
+      "profileImg" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883354/Ngodingbentar/Music/200x200cc_1_o0bba8.jpg",
+      "postImg" : "https://res.cloudinary.com/dewaqintoro/image/upload/v1625921729/Ngodingbentar/ig/Untitled-1aa_xlraib.png",
+      "likes": 200,
+      "description": "desscription caption",
+      "comments": 129,
+      "created": 3
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "sender": "Abinaya Adhi",
+      "img": "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883355/Ngodingbentar/Music/200x200cc_2_vwvpll.jpg",
+      "meesage": "4 new messages",
+      "ago": "21m age"
+    },
+    {
+      "id": 2,
+      "sender": "Suyatmi Adinata ",
+      "img": "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883355/Ngodingbentar/Music/200x200cc_3_v80fng.jpg",
+      "meesage": "4 new messages",
+      "ago": "21m age"
+    },
+    {
+      "id": 3,
+      "sender": "Adiwangsa",
+      "img": "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883354/Ngodingbentar/Music/200x200cc_1_o0bba8.jpg",
+      "meesage": "4 new messages",
+      "ago": "21m age"
+    },
+    {
+      "id": 4,
+      "sender": "Arjanta Arga ",
+      "img": "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883354/Ngodingbentar/Music/200x200cc_4_ek1wir.jpg",
+      "meesage": "4 new messages",
+      "ago": "21m age"
+    },
+    {
+      "id": 5,
+      "sender": "Anindya Suyatmi April ",
+      "img": "https://res.cloudinary.com/dewaqintoro/image/upload/v1625857570/Ngodingbentar/Music/400x400cc_asdlmr.jpg",
+      "meesage": "4 new messages",
+      "ago": "21m age"
+    },
+    {
+      "id": 6,
+      "sender": "Arsyana ",
+      "img": "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883353/Ngodingbentar/Music/200x200cc_w4l0t2.jpg",
+      "meesage": "4 new messages",
+      "ago": "21m age"
+    },
+    {
+      "id": 7,
+      "sender": "Asri Ayu ",
+      "img": "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883355/Ngodingbentar/Music/200x200cc_2_vwvpll.jpg",
+      "meesage": "4 new messages",
+      "ago": "21m age"
+    },
+    {
+      "id": 8,
+      "sender": "Bambang Baskoro ",
+      "img": "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883353/Ngodingbentar/Music/200x200cc_w4l0t2.jpg",
+      "meesage": "4 new messages",
+      "ago": "21m age"
+    },
+    {
+      "id": 9,
+      "sender": "Brahma Buana ",
+      "img": "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883355/Ngodingbentar/Music/200x200cc_2_vwvpll.jpg",
+      "meesage": "4 new messages",
+      "ago": "21m age"
+    },
+    {
+      "id": 10,
+      "sender": "Bintang Binar",
+      "img": "https://res.cloudinary.com/dewaqintoro/image/upload/v1625883354/Ngodingbentar/Music/200x200cc_1_o0bba8.jpg",
+      "meesage": "4 new messages",
+      "ago": "21m age"
+    },
+    {
+      "id": 11,
+      "sender": "Cipta Cyntia",
+      "img": "https://res.cloudinary.com/dewaqintoro/image/upload/v1625857570/Ngodingbentar/Music/400x400cc_asdlmr.jpg",
+      "meesage": "4 new messages",
+      "ago": "21m age"
+    }
+  ]
+}

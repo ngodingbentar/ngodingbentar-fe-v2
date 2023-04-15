@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "JANUARI"
+    },
+    {
+      "id": 2,
+      "title": "FEBRUARI"
+    },
+    {
+      "id": 3,
+      "title": "MARET"
+    },
+    {
+      "id": 4,
+      "title": "APRIL"
+    },
+    {
+      "id": 5,
+      "title": "MEI"
+    },
+    {
+      "id": 6,
+      "title": "JUNI"
+    },
+    {
+      "id": 7,
+      "title": "JULI"
+    },
+    {
+      "id": 8,
+      "title": "AGUSTUS"
+    },
+    {
+      "id": 9,
+      "title": "SEPTEMBER"
+    },
+    {
+      "id": 10,
+      "title": "OKTOBER"
+    },
+    {
+      "id": 11,
+      "title": "NOVEMBER"
+    },
+    {
+      "id": 12,
+      "title": "DESEMBER"
+    }
+  ]
+}

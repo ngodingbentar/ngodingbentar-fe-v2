@@ -1,0 +1,6 @@
+need babel to run cloudinary
+
+nedd improvement
+1 list style none in blog by id
+
+background undifined in footer when first time access website

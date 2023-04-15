@@ -1,0 +1,130 @@
+{
+  "source": "https://islam.nu.or.id/post/read/79315/susunan-bacaan-wirid-sesudah-shalat-lima-waktu",
+  "data": [
+    {
+      "id": 1,
+      "name": "Nabi Adam AS",
+      "key": "adam"
+    },
+    {
+      "id": 2,
+      "name": "Nabi Idris AS",
+      "key": "idris"
+    },
+    {
+      "id": 3,
+      "name": "Nabi Nuh AS",
+      "key": "nuh"
+    },
+    {
+      "id": 4,
+      "name": "Nabi Hud AS",
+      "key": "hud"
+    },
+    {
+      "id": 5,
+      "name": "Nabi Sholeh AS",
+      "key": "sholeh"
+    },
+    {
+      "id": 6,
+      "name": "Nabi Ibrahim AS",
+      "key": "ibrahim"
+    },
+    {
+      "id": 7,
+      "name": "Nabi Luth AS",
+      "key": "luth"
+    },
+    {
+      "id": 8,
+      "name": "Nabi Ismail AS",
+      "key": "ismail"
+    },
+    {
+      "id": 9,
+      "name": "Nabi Ishaq AS",
+      "key": "ishaq"
+    },
+    {
+      "id": 10,
+      "name": "Nabi Yaqub AS",
+      "key": "yaqub"
+    },
+    {
+      "id": 11,
+      "name": "Nabi Yusuf AS",
+      "key": "yusuf"
+    },
+    {
+      "id": 12,
+      "name": "Nabi Ayyub AS",
+      "key": "ayyub"
+    },
+    {
+      "id": 13,
+      "name": "Nabi Syu’aib AS",
+      "key": "syuaib"
+    },
+    {
+      "id": 14,
+      "name": "Nabi Musa AS",
+      "key": "musa"
+    },
+    {
+      "id": 15,
+      "name": "Nabi Harun AS",
+      "key": "harun"
+    },
+    {
+      "id": 16,
+      "name": "Nabi Dzulkifli  AS",
+      "key": "dzulkifli"
+    },
+    {
+      "id": 17,
+      "name": "Nabi Daud AS",
+      "key": "daud"
+    },
+    {
+      "id": 18,
+      "name": "Nabi Sulaiman AS",
+      "key": "sulaiman"
+    },
+    {
+      "id": 19,
+      "name": "Nabi Ilyas AS",
+      "key": "ilyas"
+    },
+    {
+      "id": 20,
+      "name": "Nabi Ilyasa AS",
+      "key": "ilyasa"
+    },
+    {
+      "id": 21,
+      "name": "Nabi Yunus AS",
+      "key": "yunus"
+    },
+    {
+      "id": 22,
+      "name": "Nabi Zakariya AS",
+      "key": "zakariya"
+    },
+    {
+      "id": 23,
+      "name": "Nabi Yahya AS",
+      "key": "yahya"
+    },
+    {
+      "id": 24,
+      "name": "Nabi Isa AS",
+      "key": "isa"
+    },
+    {
+      "id": 25,
+      "name": "Nabi Muhammad SAW",
+      "key": "muhammad"
+    }
+  ]
+}
