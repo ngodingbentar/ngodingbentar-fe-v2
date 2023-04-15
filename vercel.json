@@ -1,9 +1,5 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "nuxt.config.js",
-      "use": "@nuxtjs/vercel-builder"
-    }
+  "rewrites": [
+      { "source": "/api/:path(.*)", "destination": "https://ngodingbentar-be-v3-production.up.railway.app/api/v1/:path" },
   ]
 }
