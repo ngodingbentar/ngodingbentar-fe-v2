@@ -1,37 +1,45 @@
 {
   "compilerOptions": {
-    "target": "ES2018",
-    "module": "ESNext",
-    "moduleResolution": "Node",
-    "lib": [
-      "ESNext",
-      "ESNext.AsyncIterable",
-      "DOM"
-    ],
-    "esModuleInterop": true,
-    "allowJs": true,
-    "sourceMap": true,
+    "target": "es5",
+    "lib": ["dom", "es2015", "es2016"],
+    "module": "es2015",
+    "moduleResolution": "node",
+    "outDir": "./dist.js",
     "strict": true,
-    "noEmit": true,
+    "noImplicitAny": false,
+
+    "allowJs": true,
+    "checkJs": true,
+
+    "allowSyntheticDefaultImports": true,
     "experimentalDecorators": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": false,
+    "removeComments": true,
+    "sourceMap": true,
+    "pretty": true,
+
     "baseUrl": ".",
     "paths": {
-      "@/*": [
-        "./*"
-      ],
-      "~/*": [
-        "./*"
-      ]
+      "~/*": ["./*"],
+      "@/*": ["./*"]
     },
     "types": [
       "@types/node",
       "@nuxt/types",
-      "@nuxtjs/axios",
+      "@nuxtjs/axios"
     ]
   },
+  "include": [
+    "./index.d.ts",
+    "./**/*.ts",
+    "./**/*.vue"
+  ],
   "exclude": [
-    "node_modules",
     ".nuxt",
-    "dist"
+    ".vscode",
+    "dist",
+    "dist.js",
+    "node_modules"
   ]
 }
