@@ -6,9 +6,9 @@
         <CekResi />
       </div>
       <div v-else class="section lg:flex">
-        <div>
+        <!-- <div>
           <button @click="setProv">setProv</button>
-        </div>
+        </div> -->
         <div class="section-input lg:w-4/6">
           <div class="bg-white p-8 rounded-3xl">
             <div class="main">
